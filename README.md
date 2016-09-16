@@ -1,7 +1,7 @@
 # Advanced Java
 ## Project 4 : Maze (Backtracking)
 --------------------
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt tag](https://raw.githubusercontent.com/riodw/AdvancedJava-Project.4/master/output-1.png)
 --------------------
 **OutPut:**
 ```
